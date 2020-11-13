@@ -32,3 +32,12 @@ Création de la base de données:
   `dateMiseEnCirculation` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
   ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+  
+Création du projet :
+  
+1/Dans Eclipse, créez un projet nommé « JDBC ». (File->New->JavaProject)
+  
+2/Ajoutez mysql-connector.jar dans les librairies du projet
+  
+  Click droit sur le projet -- > Properties--> build path -- > configure build path.
+  Dans l’onglet Libraries cliquez sur Add External Jar et Selectionnez le jar correspondant.
