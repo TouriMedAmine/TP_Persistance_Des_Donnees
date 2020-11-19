@@ -16,7 +16,7 @@ public class TestJDBC {
 	static final String JDBC_DRIVER= "com.mysql.jdbc.Driver";
 	static final String DB_URL= "jdbc:mysql://localhost:3306/Incident";
 	static final String USER= "root";
-	static final String PASS= "thebestofjudo.98";
+	static final String PASS= "rootroot";
 	static Connection conn= null;
 	
 	public static void main(String[] args) {

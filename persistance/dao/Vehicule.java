@@ -1,4 +1,5 @@
-package persistance;
+package persistance.dao;
+
 
 public class Vehicule {
 	
@@ -44,4 +45,5 @@ public class Vehicule {
 	}
 
 }
+
 
